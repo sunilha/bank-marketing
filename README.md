@@ -36,7 +36,7 @@ another with limited features modelled with optimized settings
  - Models were optimized - hyperparameter tuning and gridsearch
  - All models had marginal drop in both train and test accuracy
  - Train and Test accuracy are comparable for all the models
- - Model training got better for all but SVM, SVM training time took a longer in this case
+ - No significant deviation in Model training time 
 
 Customer with good finance, previously enrolled in campaign (repeat customer) are expected to enroll for this long term deposit campaign. 
 With help of this analysis bank can come up with better customer engagement programs, focus their resources towards 
